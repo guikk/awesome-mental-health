@@ -24,6 +24,7 @@ It includes subjective well-being, perceived self-efficacy, autonomy, competence
 - [Articles](#articles)
 - [Books](#books)
 - [Conferences](#conferences)
+- [Courses](#courses)
 - [Meetups](#meetups)
 - [Organizations](#organizations)
 - [Podcasts](#podcasts)
@@ -103,6 +104,12 @@ Conferences spreading the word of the importance of mental health awareness and 
 
 * [Computing And Mental Health](http://mentalhealth.media.mit.edu/) - Bringing together communities.
 * [Anxiety Tech](http://www.anxietytech.com) - Learn how to advocate for mental health at work, how technology can be better designed to support mental health, what technologies are already working to help those who suffer with mental illnesses, and how you or your company can be leaders in this field.
+
+## Courses
+
+Online courses, classes and learning resources focused on mental health, psychology and well-being for people in the tech industry.
+
+* [Coursera: The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - free 10 weeks course by Yale University. Lectures by Dr. Laurie Santos. Has practical rewirement homework activities to guide people to live a happier and more fulfilling life.
 
 ## Meetups
 
